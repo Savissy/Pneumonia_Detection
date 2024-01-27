@@ -9,7 +9,7 @@ A Flask **pneumonia detection** web application
 
 ## Setting up the Web-App Locally 
 
-1. Clone The Repository 
+1. Clone The Repository https://github.com/Savissy/Pneumonia_Detection
 
 2. Install Requirements  `pip install -r requirements.txt`
 
