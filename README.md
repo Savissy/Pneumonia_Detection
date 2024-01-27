@@ -1,4 +1,4 @@
-# Flask Web-App Pneumonia Detection from Chest X-Ray Images CNN 
+# Flask Web-App Pneumonia Detection from CNN 
 A Flask **pneumonia detection** web application 
 
 [![](https://img.shields.io/badge/python-3.7%2C%203.5%2B-blue.svg)]()
@@ -9,7 +9,7 @@ A Flask **pneumonia detection** web application
 
 ## Setting up the Web-App Locally 
 
-1. Clone The Repository or Download Zip from  <https://github.com/YashShende/Pneumonia_Detection/archive/master.zip> & Extract it.
+1. Clone The Repository 
 
 2. Install Requirements  `pip install -r requirements.txt`
 
